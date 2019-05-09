@@ -6,6 +6,7 @@ sap.ui.define([
 			metadata: {
 			},
 			init : function( ){},
+			
 			renderer : function( oRm, oControl ) {}
 		}); 
 	} );
